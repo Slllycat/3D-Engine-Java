@@ -19,3 +19,6 @@ Movement
 Performance
 Scenes  (for a list of Object so all object can apply the same Z-Filter)
 a better Z-FIlter cause mine is ass
+
+Bug or something like that:
+Fix that sometimes hex code for colors needen and sometimes Color class
